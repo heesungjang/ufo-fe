@@ -32,7 +32,7 @@
 
 # 🛸 URL
 
-http://ufo.town/
+https://d3hi48zkmemxty.cloudfront.net/
 
 <br/>
 <br/>
