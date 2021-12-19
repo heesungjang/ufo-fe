@@ -7,18 +7,18 @@
 
 # 📋 목차
 
-### [1. 개요](#-🎬-개요)
+### [1. Project Background](#🎬 Project Background)
 
-### [2. 사용기술](#-💻-사용기술)
+### [2. Used tech stacks](#-💻-Used tech )
 
-### [3. 기능소개](#-💡-기능소개)
+### [3. What you can do?](#-💡-What you can do?)
 
-### [4. 멤버소개](#-👽-멤버소개)
+### [4. Project contributors](#-👽-Project contributors)
 
 <br/>
 <br/>
 
-# 🎬 개요
+#🎬 Project Background
 
 기간 : 2021-07-23 ~ 2021-09-03 (43일)
 
