@@ -7,7 +7,7 @@
 
 # 📋 목차
 
-### [1. Project Background](#🎬 Project Background)
+### [1. Project Background](#-🎬-Project Background)
 
 ### [2. Used tech stacks](#-💻-Used tech )
 
