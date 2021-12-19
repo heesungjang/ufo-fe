@@ -7,13 +7,13 @@
 
 # 📋 목차
 
-### [1. Project Background](#-🎬-Project Background)
+### 1.🎬 Project Background
 
-### [2. Used tech stacks](#-💻-Used tech )
+### 2.# 💻 Used tech
 
-### [3. What you can do?](#-💡-What you can do?)
+### 3.#💡 What you can do?
 
-### [4. Project contributors](#-👽-Project contributors)
+### 4.# 👽 Project contributors
 
 <br/>
 <br/>
