@@ -1,4 +1,4 @@
-# UFO - 유학생들의 프리한 오늘
+# UFO
 
 ![ufo-town](./final-project/src/Assets/Banner/UFO.png)
 <br/>
