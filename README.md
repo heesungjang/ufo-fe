@@ -99,7 +99,7 @@ https://d3hi48zkmemxty.cloudfront.net/
 
 <br/>
 
-> 저희가 궁금하시다구요? 아래의 링크를 클릭해주세요! 🛸 <br/> > [UFO공용노션](https://yzkim9501.notion.site/UFO-32105e9124b94b4faae28574d416cb72)
+> 저희가 궁금하시다구요? 아래의 링크를 클릭해주세요! 🛸 <br/> > [UFO공용노션](https://www.notion.so/yzkim9501/UFO-3-b9bf655f15444276bdc50eda67336904)
 
 <br/>
 <br/>
